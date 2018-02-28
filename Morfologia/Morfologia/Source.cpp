@@ -75,10 +75,9 @@ int main()
 	capture.release();
 
 
-	void Filip()
-	{
-
+	void Filip(){
 		cout << "eloeloeleeeo";
+		cout << "elo siemandero jak tam co tam?";
 	}
 	return 0;
 }
