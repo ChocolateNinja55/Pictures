@@ -78,8 +78,7 @@ int main()
 	void Filip()
 	{
 
-
-		cout << "eloeloelo";
+		cout << "eloeloeleeeo";
 	}
 	return 0;
 }
