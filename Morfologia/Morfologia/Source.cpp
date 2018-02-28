@@ -1,7 +1,7 @@
 // opencvtry.cpp : Defines the entry point for the console application.
 //
 
-
+// zobaczymy czy dzia³a
 #include <opencv2/highgui/highgui.hpp> 
 #include "opencv2/imgproc/imgproc.hpp" 
 #include <string> 
@@ -13,7 +13,7 @@ using namespace std;
 int main()
 {
 	VideoCapture capture = VideoCapture(0);
-	string window_name[] = { "Kamera", "Contour", "Binary" };
+	string window_name[] = { "Kamera", "Kontur", "Binary" };
 	Mat frame, img, hsv_img, binary;
 
 	//*** 
