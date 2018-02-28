@@ -73,5 +73,13 @@ int main()
 		imshow(window_name[2], binary);
 	}
 	capture.release();
+
+
+	void Filip()
+	{
+
+
+		cout << "eloeloelo";
+	}
 	return 0;
 }
